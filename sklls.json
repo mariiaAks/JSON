@@ -1,0 +1,8 @@
+{
+	"theory": "что такое тестирование, багрепорты, документация, виды, методы, направления тестирования",
+	"architecture": "клиент-серверная архитектура, структура http запросов и ответов",
+	"API testing": "Тестирование API через Postman",
+	"web testing": "DevTools браузеров, снифинг web трафика через Charles и Fiddler",
+	"mobile testing": "Android studio, перехват мобильного через Charles и Fiddler",
+	"database": "Установка и настройка БД Postgres, основы SQL"
+}
