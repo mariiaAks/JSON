@@ -36,10 +36,10 @@ GIT Homework 1
  	{
     		"personalInfo": {
     			"firstName": "Мария",
-			"middleName": "Романовна",
-			"lastName": "Щербатова",
-			"amountPets": 0,
-			"futureSalary": 100000}
+				"middleName": "Романовна",
+				"lastName": "Щербатова",
+				"amountPets": 0,
+				"futureSalary": 100000}
 	 }
  	Esc :wq
 		
