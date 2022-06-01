@@ -76,7 +76,7 @@ GIT Homework 1
 		"API testing": "Тестирование API через Postman",
 		"web testing": "DevTools браузеров, снифинг web трафика через Charles и Fiddler",
 		"mobile testing": "Android studio, перехват мобильного через Charles и Fiddler",
-		"database": "Установка и настройка БД Postgres, основы SQL",
+		"database": "Установка и настройка БД Postgres, основы SQL"
  	} 
  12. Отправить сразу 2 файла на внешний репозиторий.
  
