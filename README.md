@@ -33,14 +33,14 @@ GIT Homework 1
 
 	INSERT (кнопка i)
   
- 		 {
-    			"personalInfo": {
-    				"firstName": "Мария",
-					"middleName": "Романовна",
-					"lastName": "Щербатова",
-					"amountPets": 0,
-					"futureSalary": 100000}
-	 	}
+ 	{
+    		"personalInfo": {
+    			"firstName": "Мария",
+			"middleName": "Романовна",
+			"lastName": "Щербатова",
+			"amountPets": 0,
+			"futureSalary": 100000}
+	 }
  	Esc :wq
 		
   8. Отправить изменения на внешний репозиторий.
